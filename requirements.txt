@@ -1,1 +1,7 @@
-
+torch
+transformers
+datasets
+deepspeed
+tqdm
+math_verify
+numpy

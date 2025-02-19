@@ -1,7 +1,7 @@
 # GRPO PyTorch
 
 <p align="center">
-  <img src="GRPO.png" alt="GRPO" style="display:block; margin:auto; width:850px;" />
+  <img src="GRPO.png" alt="GRPO" style="display:block; margin:auto; width:750px;" />
 </p>
 
 PyTorch implementation of GRPO.
